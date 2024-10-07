@@ -9,7 +9,7 @@ DISCORD MASS DM
   <img src="https://img.shields.io/github/license/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/>
 </p>
   
----------------------------------------
+--------------------------------------- 
    
 <br/>
 <div align="center">
