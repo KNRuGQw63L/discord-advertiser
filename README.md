@@ -27,7 +27,7 @@ DISCORD MASS DM
     ·
     <a href="">Request Feature</a>
   </p>
-</div>
+</div> 
 ---------------------------------------
 
 # Guide on how to use these tool
