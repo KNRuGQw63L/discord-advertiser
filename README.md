@@ -5,7 +5,7 @@ DISCORD MASS DM
   <img src="https://img.shields.io/github/contributors/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/> 
   <img src="https://img.shields.io/github/forks/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/> 
-  <img src="https://img.shields.io/github/issues/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/> 
   <img src="https://img.shields.io/github/license/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/>
 </p> 
   
