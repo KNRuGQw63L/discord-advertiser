@@ -17,7 +17,7 @@ DISCORD MASS DM
     <img src="https://i.imgur.com/9l4pHEN.png" alt="Logo" width="120" height="120">
   </a> 
    
-  <h2 align="center">Discord Mass DM </h3>
+  <h2 align="center">Discord Mass DM </h3> 
  
   <p align="center"> 
     Scrapes users from a discord server to promote/mass dm
