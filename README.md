@@ -1,6 +1,6 @@
 DISCORD MASS DM 
 
-<div id="top"></div>
+<div id="top"></div> 
 <p align="center">
   <img src="https://img.shields.io/github/contributors/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/>  
   <img src="https://img.shields.io/github/forks/dropout1337/Discord-Mass-DM.svg?style=for-the-badge"/>
