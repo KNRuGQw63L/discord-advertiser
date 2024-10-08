@@ -48,7 +48,7 @@ DISCORD MASS DM
 * Asynchronous
 * Easy to use
 * Free
-* Auto scrapes
+* Auto scrapes 
 * Multiline message support 
 
 ---------------------------------------
