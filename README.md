@@ -18,7 +18,7 @@ DISCORD MASS DM
   </a> 
    
   <h2 align="center">Discord Mass DM </h3> 
- 
+  
   <p align="center"> 
     Scrapes users from a discord server to promote/mass dm
     <br />
