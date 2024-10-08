@@ -49,7 +49,7 @@ DISCORD MASS DM
 * Easy to use
 * Free
 * Auto scrapes
-* Multiline message support
+* Multiline message support 
 
 ---------------------------------------
 
