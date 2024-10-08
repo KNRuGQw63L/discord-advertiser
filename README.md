@@ -45,7 +45,7 @@ DISCORD MASS DM
 --------------------------------------- 
  
 ### Features
-* Asynchronous 
+* Asynchronous  
 * Easy to use 
 * Free
 * Auto scrapes 
