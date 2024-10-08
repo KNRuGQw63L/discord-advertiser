@@ -46,7 +46,7 @@ DISCORD MASS DM
   
 ### Features  
 * Asynchronous  
-* Easy to use 
+* Easy to use  
 * Free
 * Auto scrapes 
 * Multiline message support  
