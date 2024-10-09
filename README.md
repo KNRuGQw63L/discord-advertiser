@@ -21,7 +21,7 @@ DISCORD MASS DM
   
   <p align="center">   
     Scrapes users from a discord server to promote/mass dm
-    <br />
+    <br /> 
     <br />
     <a href="">Report Bug</a>
     ·  
