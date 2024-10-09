@@ -24,7 +24,7 @@ DISCORD MASS DM
     <br />
     <br />
     <a href="">Report Bug</a>
-    · 
+    ·  
     <a href="">Request Feature</a>
   </p>  
 </div> 
